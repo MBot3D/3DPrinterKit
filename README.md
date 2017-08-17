@@ -9,5 +9,5 @@ https://github.com/MBot3D/3DPrinterKit/blob/master/Docs/3DPKit_HowToAssembly_v1.
 
 # How to Start
 
-https://github.com/MBot3D/3DPrinterKit/blob/master/Docs/3DPrinter%20User%20Manual_V1.pdf
+https://github.com/MBot3D/3DPrinterKit/raw/master/Docs/3DPrinter%20User%20Manual_V1.pdf
 
